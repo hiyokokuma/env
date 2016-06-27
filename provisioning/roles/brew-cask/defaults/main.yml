@@ -1,0 +1,17 @@
+homebrew_cask_packages:
+  # general
+  - alfred
+  - karabiner
+  - Atom
+  - google-chrome
+  - cleanarchiver
+  - the-unarchiver
+  # develop  
+  - iterm2
+  - vagrant
+  - virtualbox
+  # Other
+  #- kindle
+  #- vlc
+  #- utorrent
+  #- cooviewer
